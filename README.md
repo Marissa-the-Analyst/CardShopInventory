@@ -1,6 +1,13 @@
 # CardShopInventory
 I've been diving back into Pokémon lately since a card shop opened near me. The store lacks a proper inventory system and functions more like an upscale yard sale, using price guns to stick prices on product. In this scenario, I asked the question, what if someone came in looking for 1 specific card? Multiplied by 2 different platforms! 
 
+<img width="684" height="522" alt="image" src="https://github.com/user-attachments/assets/ae18a0aa-7f52-435a-8a4d-6f01bb0a778f" />
+<img width="980" height="649" alt="image" src="https://github.com/user-attachments/assets/bc811daf-f843-4096-bfb8-22de1c088a44" />
+<details>
+ <summary> Can you tell which is which platform? Click this to uncover that: </summary> 
+The first is Excel, the second is Tableau! 
+</details>
+
 ### Finished products ### 
 
 - View the Excel Dashboard [click here](https://1drv.ms/x/c/4816316897784cf5/IQA2-5E-PcMXQrIk6Q9BCeoWAXSh5LEdrPhP826JXVRFK64?e=IfaXuc)  
